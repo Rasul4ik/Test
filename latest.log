@@ -1,0 +1,276 @@
+[00:00:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3305, y=48, z=-306}
+[00:00:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3310, y=27, z=-277}
+[00:01:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3292, y=20, z=221}
+[00:01:28] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 3abb40f7-c662-4e9b-b97c-cd3cfee7cb2e to 96b7be8a-8823-4f42-9cc7-2db54410db50
+[00:01:28] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 80bab641-3eff-48bb-a21d-efec6f2fc626 to 27124277-b0b0-40e6-b722-2cb0659ff1ea
+[00:01:35] [main/INFO]: Loaded 1089 advancements
+[00:01:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3339, y=31, z=415}
+[00:01:50] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3365, y=28, z=282}
+[00:02:15] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3364, y=28, z=90}
+[00:02:21] [main/INFO]: Loaded 1089 advancements
+[00:02:23] [main/INFO]: Loaded 1089 advancements
+[00:03:04] [main/INFO]: Loaded 1089 advancements
+[00:03:56] [main/INFO]: Loaded 1090 advancements
+[00:04:00] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 10 msecs
+[00:05:17] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3479, y=19, z=376}
+[00:06:48] [main/INFO]: Loaded 1090 advancements
+[00:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16142ms or 322 ticks behind
+[00:07:52] [main/INFO]: Loaded 1095 advancements
+[00:08:31] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3523, y=13, z=333}
+[00:08:40] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3574, y=27, z=348}
+[00:08:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3594, y=19, z=625}
+[00:08:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3645, y=29, z=498}
+[00:09:11] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 60 msecs
+[00:09:28] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 14 msecs
+[00:10:47] [Server thread/INFO]: [kenish: kenish телепортирован в точку -3140.5, 69.5, 154.5]
+[00:10:47] [main/INFO]: [CHAT] kenish телепортирован в точку -3140.5, 69.5, 154.5
+[00:11:15] [Server thread/INFO]: [kenish: kenish телепортирован в точку -3002.5, 81.5, -256.5]
+[00:11:15] [main/INFO]: [CHAT] kenish телепортирован в точку -3002.5, 81.5, -256.5
+[00:11:42] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 7 msecs
+[00:11:57] [main/INFO]: Loaded 1095 advancements
+[00:12:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2823, y=41, z=-608}
+[00:12:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3111, y=67, z=-573}
+[00:12:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3110, y=67, z=-574}
+[00:12:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2659, y=31, z=-282}
+[00:12:49] [main/WARN]: Received passengers for unknown entity
+[00:13:26] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2614, y=15, z=-467}
+[00:13:26] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2612, y=15, z=-465}
+[00:13:26] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2614, y=20, z=-453}
+[00:13:26] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2614, y=15, z=-444}
+[00:13:26] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2612, y=15, z=-446}
+[00:13:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2601, y=15, z=-456}
+[00:13:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2602, y=15, z=-451}
+[00:13:38] [main/INFO]: Loaded 1095 advancements
+[00:14:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2586, y=15, z=-444}
+[00:14:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2588, y=15, z=-446}
+[00:14:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2588, y=15, z=-451}
+[00:14:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2586, y=15, z=-449}
+[00:14:14] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2530, y=42, z=-679}
+[00:14:15] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2533, y=16, z=-586}
+[00:14:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2512, y=37, z=-731}
+[00:14:30] [main/INFO]: Loaded 1095 advancements
+[00:14:35] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2470, y=40, z=-820}
+[00:14:42] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 13 msecs
+[00:14:46] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3005, y=59, z=-705}
+[00:15:08] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 37 msecs
+[00:15:27] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2369, y=46, z=-922}
+[00:15:35] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2352, y=27, z=-759}
+[00:15:40] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2323, y=30, z=-962}
+[00:16:00] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2656, y=21, z=-1073}
+[00:16:04] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2535, y=14, z=-1102}
+[00:16:13] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 27 msecs
+[00:16:40] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 5ab79f90-6159-4dce-ab5f-bd72df851679 to dc4ecc58-101b-4318-96df-04902de34988
+[00:16:40] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 4f103c7b-6d1f-4c08-b258-29bd7948cbb9 to cb94f18e-ec72-4511-a737-73c59475104c
+[00:16:40] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 86a603ef-8c73-48cb-90df-8d414829241a to ce37bfc8-4daf-4304-86e4-41ac5eb5024e
+[00:16:40] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from a7446b8e-d90e-4206-baae-6a983339a727 to 82b5f406-bab3-41a6-aada-9db3e9e2aac1
+[00:16:40] [Server thread/INFO]: Changing UUID of duplicate entity guardvillagers:guard from b73fa1b6-4867-48cc-8d16-78a6bea234a3 to 359e0efc-e21c-4df0-bc23-bde443381353
+[00:16:41] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 5ab79f90-6159-4dce-ab5f-bd72df851679 to 86aeda9d-9d8e-4523-beeb-708149f585da
+[00:16:41] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 4f103c7b-6d1f-4c08-b258-29bd7948cbb9 to 330234f0-4b98-490c-8979-9509d335442c
+[00:16:41] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 86a603ef-8c73-48cb-90df-8d414829241a to cb993426-0c36-4489-b495-b06833685a4d
+[00:16:41] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from a7446b8e-d90e-4206-baae-6a983339a727 to 557df7ed-22bd-444b-ab13-10618bcbeecf
+[00:16:41] [Server thread/INFO]: Changing UUID of duplicate entity guardvillagers:guard from b73fa1b6-4867-48cc-8d16-78a6bea234a3 to 7f20bc03-c597-47dd-b737-3255c538b576
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 5ab79f90-6159-4dce-ab5f-bd72df851679 to b2db0012-655a-4ee4-b993-612523a4681a
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 4f103c7b-6d1f-4c08-b258-29bd7948cbb9 to 61dcd8b2-e117-46a7-a105-be6ee0c769d1
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 86a603ef-8c73-48cb-90df-8d414829241a to 4a75bdd2-ea2b-4bd1-8625-2affaed6f84c
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from a7446b8e-d90e-4206-baae-6a983339a727 to a9eb6a3e-be0b-4475-a89e-c28978668f81
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity guardvillagers:guard from b73fa1b6-4867-48cc-8d16-78a6bea234a3 to 8226a079-5519-4653-a242-de921e89638a
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 5ab79f90-6159-4dce-ab5f-bd72df851679 to b7a6e8ca-b2a5-4d59-8cea-d4af747714cc
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 4f103c7b-6d1f-4c08-b258-29bd7948cbb9 to 79ab9c9e-6801-466c-a53f-e3f0c685025c
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 86a603ef-8c73-48cb-90df-8d414829241a to 6691d30a-e37d-4267-a7ff-059efb77de9d
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from a7446b8e-d90e-4206-baae-6a983339a727 to 464c02b2-582c-4563-b8dc-9525d9476a2d
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity guardvillagers:guard from b73fa1b6-4867-48cc-8d16-78a6bea234a3 to 2dd16cc9-fcf7-4639-bce6-034d53a87901
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity alexsmobs:crow from 34ec373d-1256-4fa6-a3ba-819e7554b07c to e5b0a579-e4ee-4244-956f-08ab994fa5ce
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity alexsmobs:crow from 1179c034-bf0e-44b8-8c2d-0d473cb4b685 to 94d1cd65-a026-496b-a77b-0b5e072157aa
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 5ab79f90-6159-4dce-ab5f-bd72df851679 to dc2a508b-4821-465e-9d6a-abf554a9fdf3
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 4f103c7b-6d1f-4c08-b258-29bd7948cbb9 to b9ed3e4f-34f7-471e-90c0-adae6d83a66f
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 86a603ef-8c73-48cb-90df-8d414829241a to ffe08ed2-bd61-49c3-b750-ade51dfc51b4
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from a7446b8e-d90e-4206-baae-6a983339a727 to ca30e98c-7bb6-4179-ad5d-5eca40a2a9ca
+[00:16:42] [Server thread/INFO]: Changing UUID of duplicate entity guardvillagers:guard from b73fa1b6-4867-48cc-8d16-78a6bea234a3 to e7a2c111-494e-47cb-9c53-39549c94ff0e
+[00:16:51] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2526, y=12, z=-1243}
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 5ab79f90-6159-4dce-ab5f-bd72df851679 to 5298d834-a83f-4e23-9727-da776bc8af58
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 4f103c7b-6d1f-4c08-b258-29bd7948cbb9 to d1558457-9e36-4391-9135-7f913b3e5b60
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 86a603ef-8c73-48cb-90df-8d414829241a to 445d40fa-0971-42cb-85ed-5628d7798e5d
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from a7446b8e-d90e-4206-baae-6a983339a727 to 99366890-77e2-4c74-a632-92da73d8bbee
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity guardvillagers:guard from b73fa1b6-4867-48cc-8d16-78a6bea234a3 to 5f2b269a-3fb0-41a1-86db-838b8dd4b83e
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 5ab79f90-6159-4dce-ab5f-bd72df851679 to 886ff6f4-8c70-4298-a9f5-10e4f3fd0e62
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 4f103c7b-6d1f-4c08-b258-29bd7948cbb9 to 7562466c-cd89-45da-9538-62ff35f8d904
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 86a603ef-8c73-48cb-90df-8d414829241a to 56b80896-3c7a-4b63-b2e9-9d5add2a0146
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from a7446b8e-d90e-4206-baae-6a983339a727 to a7b256db-5dcf-402f-a251-e6138f0b07e0
+[00:16:52] [Server thread/INFO]: Changing UUID of duplicate entity guardvillagers:guard from b73fa1b6-4867-48cc-8d16-78a6bea234a3 to b7f26cd6-80ea-4600-8176-2c57713dbc8b
+[00:16:53] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 5ab79f90-6159-4dce-ab5f-bd72df851679 to 46b195e3-72bd-435e-adcf-621245c387a1
+[00:16:53] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 4f103c7b-6d1f-4c08-b258-29bd7948cbb9 to 3411dfef-313c-4fdf-84e0-1ceb123e2a04
+[00:16:53] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 86a603ef-8c73-48cb-90df-8d414829241a to 8246a795-51ed-40a8-8ace-d27339a2173f
+[00:16:53] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from a7446b8e-d90e-4206-baae-6a983339a727 to d4b1516a-a116-4933-bbeb-239a9ab1cdec
+[00:16:53] [Server thread/INFO]: Changing UUID of duplicate entity guardvillagers:guard from b73fa1b6-4867-48cc-8d16-78a6bea234a3 to 6fffc497-e943-4451-9177-eb66092bd254
+[00:16:54] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from 5ab79f90-6159-4dce-ab5f-bd72df851679 to 691f7aa8-c070-4972-817b-04dfba0b2f5c
+[00:16:54] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 4f103c7b-6d1f-4c08-b258-29bd7948cbb9 to 3ab138a5-1909-4224-87ee-fc4d86d4a19e
+[00:16:54] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:item from 86a603ef-8c73-48cb-90df-8d414829241a to bed6c55e-5dba-43d9-94c2-1fa62ee8d0d6
+[00:16:54] [Server thread/INFO]: Changing UUID of duplicate entity minecraft:villager from a7446b8e-d90e-4206-baae-6a983339a727 to 7ef5310a-47ea-41ec-80d1-a2408a763b7f
+[00:16:54] [Server thread/INFO]: Changing UUID of duplicate entity guardvillagers:guard from b73fa1b6-4867-48cc-8d16-78a6bea234a3 to 319b8210-e5aa-4be6-93c6-c7ce6f2bb8bd
+[00:17:12] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 4 msecs
+[00:17:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2248, y=30, z=-1027}
+[00:18:38] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 40 msecs
+[00:20:03] [main/INFO]: [CHAT] The "Blood Moon" rises... Distant sounds of the undead can be heard...
+[00:20:41] [Server thread/WARN]: Evildevil007 moved wrongly!
+[00:21:02] [Server thread/INFO]: [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:21:02] [main/INFO]: [CHAT] [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:21:42] [Server thread/INFO]: Evildevil007 получил достижение «[Guns and Roses]»
+[00:21:42] [main/INFO]: [CHAT] Evildevil007 получил достижение «[Guns and Roses]»
+[00:21:52] [Server thread/INFO]: kenish получил достижение «[Guns and Roses]»
+[00:21:52] [main/INFO]: [CHAT] kenish получил достижение «[Guns and Roses]»
+[00:21:52] [main/INFO]: Loaded 1095 advancements
+[00:21:55] [main/INFO]: Loaded 1111 advancements
+[00:22:05] [main/INFO]: Loaded 1111 advancements
+[00:23:17] [Server thread/INFO]: [kenish: kenish телепортирован к Evildevil007]
+[00:23:17] [main/INFO]: [CHAT] kenish телепортирован к Evildevil007
+[00:23:42] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 17 msecs
+[00:24:13] [Server thread/INFO]: kenish был убит Скелет
+[00:24:13] [main/INFO]: [CHAT] kenish был убит Скелет
+[00:24:14] [Server thread/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:24:14] [main/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:24:15] [Server thread/INFO]: Evildevil007 был убит Скелет
+[00:24:15] [main/INFO]: [CHAT] Evildevil007 был убит Скелет
+[00:24:16] [Server thread/INFO]: [kenish: kenish телепортирован в точку -2411.5, 124.5, -1156.5]
+[00:24:16] [main/INFO]: [CHAT] kenish телепортирован в точку -2411.5, 124.5, -1156.5
+[00:24:29] [Server thread/INFO]: [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:24:29] [main/INFO]: [CHAT] [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:24:38] [main/INFO]: Loaded 1114 advancements
+[00:24:49] [main/WARN]: Unknown custom packet identifier: corpse:default
+[00:25:02] [main/WARN]: Unknown custom packet identifier: corpse:default
+[00:25:33] [Server thread/INFO]: kenish был убит Скелет
+[00:25:33] [main/INFO]: [CHAT] kenish был убит Скелет
+[00:25:34] [Server thread/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:25:34] [main/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:25:37] [Server thread/INFO]: [kenish: kenish телепортирован в точку -2447.5, 143.5, -1131.5]
+[00:25:37] [main/INFO]: [CHAT] kenish телепортирован в точку -2447.5, 143.5, -1131.5
+[00:25:37] [main/WARN]: Received passengers for unknown entity
+[00:25:41] [Server thread/INFO]: kenish был убит Скелет
+[00:25:41] [main/INFO]: [CHAT] kenish был убит Скелет
+[00:25:42] [Server thread/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:25:42] [main/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:25:44] [Server thread/INFO]: [kenish: kenish телепортирован в точку -2453.5, 137.5, -1135.5]
+[00:25:44] [main/INFO]: [CHAT] kenish телепортирован в точку -2453.5, 137.5, -1135.5
+[00:25:44] [main/WARN]: Received passengers for unknown entity
+[00:26:11] [main/WARN]: Unknown custom packet identifier: corpse:default
+[00:26:28] [main/WARN]: Unknown custom packet identifier: corpse:default
+[00:26:33] [main/INFO]: Loaded 1115 advancements
+[00:27:16] [Server thread/INFO]: kenish свалился благодаря Скелет
+[00:27:16] [main/INFO]: [CHAT] kenish свалился благодаря Скелет
+[00:27:17] [Server thread/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:27:17] [main/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:27:20] [Server thread/INFO]: [kenish: kenish телепортирован в точку -2424.5, 125.5, -1135.5]
+[00:27:20] [main/INFO]: [CHAT] kenish телепортирован в точку -2424.5, 125.5, -1135.5
+[00:27:20] [main/WARN]: Received passengers for unknown entity
+[00:27:20] [main/WARN]: Received passengers for unknown entity
+[00:27:20] [main/WARN]: Received passengers for unknown entity
+[00:27:20] [main/WARN]: Received passengers for unknown entity
+[00:27:20] [main/WARN]: Received passengers for unknown entity
+[00:27:20] [main/WARN]: Received passengers for unknown entity
+[00:27:25] [Server thread/INFO]: [kenish: kenish телепортирован к Evildevil007]
+[00:27:25] [main/INFO]: [CHAT] kenish телепортирован к Evildevil007
+[00:27:51] [main/WARN]: Unknown custom packet identifier: corpse:default
+[00:28:15] [Server thread/INFO]: Evildevil007 застрелен Скелет
+[00:28:15] [main/INFO]: [CHAT] Evildevil007 застрелен Скелет
+[00:28:17] [main/INFO]: Loaded 1115 advancements
+[00:28:20] [Server thread/INFO]: [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:28:20] [main/INFO]: [CHAT] [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:28:49] [Server thread/INFO]: [kenish: kenish телепортирован к Evildevil007]
+[00:28:49] [main/INFO]: [CHAT] kenish телепортирован к Evildevil007
+[00:28:56] [Server thread/INFO]: Evildevil007 был взорван Крипер
+[00:28:56] [main/INFO]: [CHAT] Evildevil007 был взорван Крипер
+[00:28:58] [Server thread/INFO]: [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:28:58] [main/INFO]: [CHAT] [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:29:16] [main/INFO]: Loaded 1118 advancements
+[00:29:27] [Server thread/INFO]: Evildevil007 свалился благодаря Скелет
+[00:29:27] [main/INFO]: [CHAT] Evildevil007 свалился благодаря Скелет
+[00:29:31] [Server thread/INFO]: [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:29:31] [main/INFO]: [CHAT] [Evildevil007: Evildevil007 телепортирован к kenish]
+[00:29:36] [main/INFO]: [CHAT] The "Blood Moon" sets... The undead begin to burn...
+[00:30:04] [Server thread/INFO]: Evildevil007 получил достижение «[Creepie Crawly]»
+[00:30:04] [main/INFO]: [CHAT] Evildevil007 получил достижение «[Creepie Crawly]»
+[00:30:33] [main/WARN]: Unknown custom packet identifier: corpse:default
+[00:31:50] [Server thread/INFO]: [Evildevil007: Evildevil007 телепортирован в точку -2317.5, 54.5, 297.5]
+[00:31:50] [main/INFO]: [CHAT] [Evildevil007: Evildevil007 телепортирован в точку -2317.5, 54.5, 297.5]
+[00:32:09] [main/INFO]: Loaded 1121 advancements
+[00:32:12] [main/INFO]: Loaded 1147 advancements
+[00:33:48] [main/INFO]: Loaded 1147 advancements
+[00:34:05] [Server thread/WARN]: kenish moved wrongly!
+[00:35:25] [Server thread/INFO]: Evildevil007 разбился вдребезги
+[00:35:25] [main/INFO]: [CHAT] Evildevil007 разбился вдребезги
+[00:35:38] [Server thread/INFO]: Evildevil007 lost connection: Отключение
+[00:35:38] [Server thread/INFO]: Evildevil007 покинул игру
+[00:35:38] [main/INFO]: [CHAT] Evildevil007 покинул игру
+[00:35:52] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 45 msecs
+[00:35:52] [main/INFO]: Loaded 1147 advancements
+[00:36:51] [main/INFO]: Loaded 1173 advancements
+[00:37:21] [Server thread/INFO]: kenish застрелен Скелет
+[00:37:21] [main/INFO]: [CHAT] kenish застрелен Скелет
+[00:37:23] [Server thread/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:37:23] [main/INFO]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:37:25] [Server thread/INFO]: [kenish: kenish телепортирован в точку -2422.5, 158.5, -1137.5]
+[00:37:25] [main/INFO]: [CHAT] kenish телепортирован в точку -2422.5, 158.5, -1137.5
+[00:37:56] [main/WARN]: Unknown custom packet identifier: corpse:default
+[00:37:59] [SoundControl Sound Processor/WARN]: SoundControl Sound Processor is lagging; behind 47 msecs
+[00:39:08] [Server thread/INFO]: [kenish: kenish телепортирован в точку -2317.5, 54.5, 299.5]
+[00:39:08] [main/INFO]: [CHAT] kenish телепортирован в точку -2317.5, 54.5, 299.5
+[00:42:55] [main/INFO]: Finalizing world map session...
+[00:42:55] [Server thread/INFO]: kenish lost connection: Отключение
+[00:42:55] [Server thread/INFO]: kenish покинул игру
+[00:42:55] [Thread-29/INFO]: World map cleaned normally!
+[00:42:55] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:42:55] [Server thread/INFO]: Stopping server
+[00:42:55] [Server thread/INFO]: Saving players
+[00:42:55] [Server thread/INFO]: Saving worlds
+[00:42:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/minecraft:overworld
+[00:42:55] [main/INFO]: World map session finalized.
+[00:42:55] [main/INFO]: Minimap session finalized.
+[00:42:55] [main/INFO]: Starting action 'stop'
+[00:42:55] [main/INFO]: Overall Action 'stop' took 41msecs
+[00:42:55] [main/INFO]: Clearing reload state (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (Новый гир): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/minecraft:the_nether
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/minecraft:the_end
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/theabyss:dream
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (dream): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/twilightforest:twilightforest
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/dead_guys_untitled_deep_dark_:deep_darky
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (deep_darky): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/theabyss:radio
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (radio): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/theabyss:ground_lands
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (ground_lands): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/twilightforest:skylight_forest
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/blue_skies:everdawn
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/theabyss:the_abyss
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/blue_skies:everbright
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/theabyss:frost_world
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[00:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый гир]'/theabyss:pocket_dimension
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (Новый гир): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (dream): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (deep_darky): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (radio): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (ground_lands): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[00:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[00:42:57] [main/INFO]: Stopping worker threads
+[00:42:58] [main/INFO]: Stopping!
+[00:42:58] [main/INFO]: Starting action 'stop'
+[00:42:58] [CullThread/INFO]: [dev.tr7zw.entityculling.CullTask:run:152]: Shutting down culling task!
+[00:42:58] [main/INFO]: Overall Action 'stop' took 39msecs
+[00:42:58] [main/INFO]: Clearing reload state (playerJoined: false, reloadFired: false, customTagsEventFired: false, vanillaTagsEventFired: false)
